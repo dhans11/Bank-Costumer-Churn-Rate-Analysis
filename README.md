@@ -51,8 +51,6 @@ Membuat model clustering untuk melakukan Customer Segmentation dari data kartu k
 
 ---
 
----
-
 ## Daftar konten di bawah ini:
 
 1.  Perkenalan
